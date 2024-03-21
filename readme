@@ -1,0 +1,48 @@
+Home Page Weding Match Test
+
+Overview
+The goal of this test is to evaluate the developer's ability to build a landing page based on provided mockups. The developer will be given access to the mockups and required assets, and they will be expected to create a responsive landing page using React.
+
+
+
+Requirements
+Design Implementation: The developer should accurately translate the design elements from the mockups into HTML and CSS.
+
+Responsiveness: The landing page should be responsive and display correctly on various screen sizes, including desktop, tablet, and mobile.
+
+Assets: Use provided images and icons (if any) to match the mockups.
+
+Evaluation Criteria
+Accuracy: How closely the final landing page matches the provided mockups.
+Responsiveness: How well the landing page adapts to different screen sizes.
+Code Quality: The cleanliness, organization, and readability of the HTML, CSS, and JavaScript code.
+
+Submission
+The developer should submit the completed landing page source code along with any necessary instructions or documentation. The submission can be made via a GitHub repository or as a compressed file containing the project files.
+
+
+Feedback and Discussion
+After reviewing the submission, we will schedule a meeting to provide feedback on the developer's work and discuss any areas for improvement.
+
+
+For Vendors Section :
+You will need to consume this api from this endpoint:
+https://api.weddingmatch.com/api/top-result-vendors
+
+Assets Link:
+https://www.weddingmatch.com/media/svgs/logo_1.svg
+https://www.weddingmatch.com/media/pictures/get-started-cover-3.webp
+https://www.weddingmatch.com/media/pictures/bride.webp
+https://www.weddingmatch.com/media/svgs/vendor.svg
+https://www.weddingmatch.com/media/svgs/create-a-website.svg
+https://www.weddingmatch.com/media/svgs/guest-list.svg
+https://www.weddingmatch.com/media/svgs/create-stationery.svg
+https://www.weddingmatch.com/media/pictures/sweeptakes.webp
+https://www.weddingmatch.com/media/pictures/spotligth_img.webp
+https://www.weddingmatch.com/media/pictures/bridal-explore.webp
+https://www.weddingmatch.com/media/pictures/bridal_logo.png
+https://www.weddingmatch.com/media/svgs/logo_3.svg
+
+
+
+Feel free to adjust the details, requirements, and evaluation criteria based on your specific needs and expectations. This document provides a structured framework for conducting the landing page development test and evaluating the developer's performance.
